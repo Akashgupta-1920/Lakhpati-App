@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.akash1920.Lakhpati"
+      "package": "com.webloxic.Lakhpati"
     },
     "web": {
       "bundler": "metro",
@@ -40,10 +40,7 @@
       "typedRoutes": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "58c2140b-d470-49c4-89ae-e6fb9a2a5e2d"
-      }
+      "router": {}
     }
   }
 }
